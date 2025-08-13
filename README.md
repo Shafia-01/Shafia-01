@@ -1,3 +1,10 @@
+<div align="center">
+
+# Shafia Ameeruddin
+
+**AI/ML Engineer | Full‑Stack Developer | Cybersecurity Enthusiast**
+
+</div>
 # Hi there, I'm **Shafia Ameeruddin** 👋
 
 🎯 **Aspiring Machine Learning Engineer • AI Problem Solver • Full-Stack Developer**  
