@@ -1,14 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:EBF4FF,100:FDF2F8&height=140&text=Shafia%20Ameeruddin&fontSize=42&fontAlign=50&fontAlignY=45&desc=AI/ML%20Engineer%20%7C%20Full%E2%80%91Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlign=50&descAlignY=80" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF80AB,100:FFD1DC&height=140&text=Shafia%20Ameeruddin&fontSize=42&fontAlign=50&fontAlignY=45&desc=AI/ML%20Engineer%20%7C%20Full%E2%80%91Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlign=50&descAlignY=80" alt="header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Let%E2%80%99s+connect+and+build+something+powerful+together!" alt="typing intro" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafia-ameeruddin01) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shafia-01)
+<p>
+  <a href="https://www.linkedin.com/in/shafia-ameeruddin01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" />
+  </a>
+  <a href="mailto:shafiaameeruddin637@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="34" />
+  </a>
+  <a href="https://github.com/Shafia-01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="34" />
+  </a>
+ </p>
+ 
+</div>
 
 ---
 
 ## ​🚀 About Me
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" alt="programmer working at computer" />
 **B.Tech CSE student at Jamia Hamdard University (CGPA 8.32/10)**, passionate about building **AI-powered solutions** that merge creativity with technical precision to solve real-world problems.  
 
 🛠 Specializing in **ML, Deep Learning, Generative AI, and Cybersecurity**, with hands-on expertise in **PyTorch, TensorFlow, Streamlit**, and advanced data pipelines.  
@@ -51,7 +64,7 @@
 
 ---
 
-## ​📊 GitHub Stats
+## ​📊 GitHub Statistics
 
 <div align="center">
 
@@ -68,8 +81,5 @@
 *“The best way to predict the future is to create it.”* ✨
 
 </div>
-
-
-
 
 
