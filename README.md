@@ -23,7 +23,7 @@
 </p>
 
 ## ​🚀 **ABOUT ME**
-<img src="assets/github.gif" width="260" align="right" alt="woman programmer working at computer" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" align="right" alt="woman programmer working at computer" />
 
 B.Tech CSE student at Jamia Hamdard University (CGPA 8.32/10), passionate about building AI-powered solutions that merge creativity with technical precision to solve real-world problems.  
 
@@ -95,6 +95,5 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 ***“The best way to predict the future is to create it.”*** ✨
 
 </div>
-
 
 
