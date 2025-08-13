@@ -39,32 +39,6 @@
 
 ---
 
-## ​ Featured Projects
-
-### ​ Med vs Non-Med Image Classifier
-- Built using ResNet-18, trained on 101 validated images with 100% accuracy.
-- Inputs: image/PDF/URL; outputs: real-time batch classification & CSV report export.
-- Tech: PyTorch, FastAPI, Streamlit.
-
-### ​ FeelCart – Shop What You Feel
-- Dual-module mood-based shopping assistance using NLP sentiment analysis.
-- AutoCart suggests items and MoodCart lets users shop via mood keywords.
-- Improved product relevance by 80%.
-
-### ​ AI-Enhanced Threat Detection
-- Live packet-sniffing system with ML-based anomaly detection (real-time).
-- Achieved 92% detection accuracy with interactive Streamlit dashboards.
-
----
-
-## ​ Research & Academic
-
-- **Co-authored** a chapter in *Smart and Sustainable Food Technologies* (Springer, 2022) on Smart Food Packaging :contentReference[oaicite:0]{index=0}.
-- Participated in IEEE JHSB workshops like "Resume-building & Interview Prep" with peers :contentReference[oaicite:1]{index=1}.
-- Bachelor’s curriculum includes Advanced Data Structures, ML, Cybersecurity & Database Management at Jamia Hamdard :contentReference[oaicite:2]{index=2}.
-
----
-
 ## ​ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafia-01&show_icons=true&theme=radical)  
@@ -73,15 +47,8 @@
 
 ---
 
-## ​ What I’m Working On
 
-- Diving into **ML Ops**, with Dockerized model deployment and CI/CD pipelines.
-- Exploring **Transformer-based NLP**, especially for sentiment & entity recognition systems.
-- Planning a **real-time recommendation engine** project (e-commerce focused).
-
----
-
-## ​ Let’s Connect
+## ​ Let’s connect and build something powerful together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafia-ameeruddin01)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com)  
@@ -91,6 +58,4 @@
 
 *“The best way to predict the future is to create it.”* ✨
 
-
-💬 *“The best way to predict the future is to create it.”*  
 
