@@ -19,11 +19,11 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=24&section=footer" alt="section divider" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=3&section=footer" alt="divider" width="100%" />
 </p>
 
 ## ​🚀 **ABOUT ME**
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" alt="programmer working at computer" />
+<img src="assets/github.gif" width="260" align="right" alt="woman programmer working at computer" />
 
 B.Tech CSE student at Jamia Hamdard University (CGPA 8.32/10), passionate about building AI-powered solutions that merge creativity with technical precision to solve real-world problems.  
 
@@ -38,7 +38,7 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 🔐 Cybersecurity Enthusiast – passionate about AI-driven network defense, real-time threat detection, and creating safer digital environments.  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=24&section=footer" alt="section divider" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=3&section=footer" alt="divider" width="100%" />
 </p>
 
 <div align="center">
@@ -72,12 +72,13 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=24&section=footer" alt="section divider" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=3&section=footer" alt="divider" width="100%" />
 </p>
 
 <div align="center">
 
 ## **​📊 GITHUB STATISTICS**
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafia-01&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&theme=radical)  
@@ -85,12 +86,15 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1493,100:8A2BE2&height=3&section=footer" alt="divider" width="100%" />
+</p>
 
 <div align="center">
 
 ***“The best way to predict the future is to create it.”*** ✨
 
 </div>
+
 
 
