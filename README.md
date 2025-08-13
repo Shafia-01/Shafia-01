@@ -5,29 +5,22 @@
 **AI/ML Engineer | Full‑Stack Developer | Cybersecurity Enthusiast**
 
 </div>
-# Hi there, I'm **Shafia Ameeruddin** 👋
 
 ---
 
-## ​ About Me
+## ​🚀 About Me
+**B.Tech CSE student at Jamia Hamdard University (CGPA 8.32/10)**, passionate about building **AI-powered solutions** that merge creativity with technical precision to solve real-world problems.  
 
-I’m Shafia Ameeruddin, a B.Tech CSE student at Jamia Hamdard University (CGPA 8.32/10), passionate about building AI-powered solutions that merge creativity with technical precision.
+🛠 Specializing in **ML, Deep Learning, Generative AI, and Cybersecurity**, with hands-on expertise in **PyTorch, TensorFlow, Streamlit**, and advanced data pipelines.  
 
-💡 Currently working on projects ranging from mood-based shopping assistants to AI-driven cybersecurity systems, combining machine learning, NLP, and data analytics to solve real-world problems.
+🌟 Leadership & Experience:  
+- **Social Media Head – GDG on Campus** (boosted engagement by 25%, event participation by 60%)  
+- **IEEE Student Member** (organized and hosted technical events)  
+- **Placement Cell Coordinator** (liaison between recruiters & students)  
+- **ENORD Volunteer** (managed aerospace launch for 300+ attendees)  
 
-🛠 Specializing in ML, Deep Learning, Generative AI, and Cybersecurity, with hands-on expertise in PyTorch, TensorFlow, Streamlit, and advanced data pipelines.
+🔐 **Cybersecurity Enthusiast** – passionate about AI-driven network defense, real-time threat detection, and creating safer digital environments.  
 
-🌟 Leadership & Experience:
-
-Social Media Head – GDG on Campus (boosted engagement by 25%, event participation by 60%)
-
-IEEE Student Member (organized and hosted technical events)
-
-Placement Cell Coordinator (liaison between recruiters & students)
-
-ENORD Volunteer (managed aerospace launch for 300+ attendees)
-
-🔐 Cybersecurity Enthusiast – passionate about AI-driven network defense, real-time threat detection, and creating safer digital environments.
 ---
 
 ## ​ Tech Stack
