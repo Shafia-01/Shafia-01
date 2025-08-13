@@ -7,28 +7,35 @@
 </div>
 # Hi there, I'm **Shafia Ameeruddin** 👋
 
-🎯 **Aspiring Machine Learning Engineer • AI Problem Solver • Full-Stack Developer**  
-📍 **New Delhi, India** | 🎓 **B.Tech CSE @ Jamia Hamdard (CGPA: 8.32/10)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/shafia-ameeruddin01) • ✉️ shafiaameeruddin637@gmail.com
-
 ---
 
 ## ​ About Me
 
-I’m a driven Computer Science undergraduate passionate about **bridging AI/ML research and real-world applications**. From creating AI-powered shopping tools to developing ML-based cybersecurity systems, I aim to build impactful, scalable software that solves real problems. I thrive at the intersection of **data science**, **software engineering**, and **design** — turning complex challenges into user-friendly products.
+I’m Shafia Ameeruddin, a B.Tech CSE student at Jamia Hamdard University (CGPA 8.32/10), passionate about building AI-powered solutions that merge creativity with technical precision.
 
-- 🏆 **Studied Smart Food Packaging**, in a Springer-published research chapter  
-- 🌐 Active contributor in student-led tech workshops and IEEE events  
-- 📚 Continuously learning state-of-the-art ML techniques and deployment best practices
+💡 Currently working on projects ranging from mood-based shopping assistants to AI-driven cybersecurity systems, combining machine learning, NLP, and data analytics to solve real-world problems.
 
+🛠 Specializing in ML, Deep Learning, Generative AI, and Cybersecurity, with hands-on expertise in PyTorch, TensorFlow, Streamlit, and advanced data pipelines.
+
+🌟 Leadership & Experience:
+
+Social Media Head – GDG on Campus (boosted engagement by 25%, event participation by 60%)
+
+IEEE Student Member (organized and hosted technical events)
+
+Placement Cell Coordinator (liaison between recruiters & students)
+
+ENORD Volunteer (managed aerospace launch for 300+ attendees)
+
+🔐 Cybersecurity Enthusiast – passionate about AI-driven network defense, real-time threat detection, and creating safer digital environments.
 ---
 
 ## ​ Tech Stack
 
-**Languages:**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
-**ML & Frameworks:**  
+**AI/ML**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?logo=scikitlearn&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
 
 **Web & Tools:**  
