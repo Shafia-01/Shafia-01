@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:F472B6,100:A78BFA&height=160&text=Shafia%20Ameeruddin&fontSize=48&fontAlign=50&fontAlignY=45&desc=AI/ML%20Engineer%20%7C%20Full%E2%80%91Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlign=50&descAlignY=80" alt="header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:FF69B4,100:8A2BE2&height=200&text=Shafia%20Ameeruddin&fontSize=48&fontAlign=50&fontAlignY=40&desc=AI/ML%20Engineer%20%7C%20Full%E2%80%91Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlign=50&descAlignY=65" alt="header banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=Let%E2%80%99s+connect+and+build+something+powerful+together!" alt="typing intro" />
 
 <p>
   <a href="https://www.linkedin.com/in/shafia-ameeruddin01">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=24" alt="LinkedIn" height="44" />
   </a>
   <a href="mailto:shafiaameeruddin637@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="34" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=24" alt="Email" height="44" />
   </a>
   <a href="https://github.com/Shafia-01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="34" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=24" alt="GitHub" height="44" />
   </a>
  </p>
  
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=12&section=footer" alt="section divider" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=24&section=footer" alt="section divider" width="100%" />
 </p>
 
 ## ​🚀 **ABOUT ME**
@@ -38,7 +38,7 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 🔐 Cybersecurity Enthusiast – passionate about AI-driven network defense, real-time threat detection, and creating safer digital environments.  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=12&section=footer" alt="section divider" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=24&section=footer" alt="section divider" width="100%" />
 </p>
 
 <div align="center">
@@ -72,7 +72,7 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=12&section=footer" alt="section divider" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:8A2BE2&height=24&section=footer" alt="section divider" width="100%" />
 </p>
 
 <div align="center">
@@ -92,3 +92,5 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 ***“The best way to predict the future is to create it.”*** ✨
 
 </div>
+
+
