@@ -25,7 +25,7 @@
 ## ​🚀 **ABOUT ME**
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" align="right" alt="woman programmer working at computer" />
 
-B.Tech CSE student at Jamia Hamdard University (CGPA 8.32/10), passionate about building AI-powered solutions that merge creativity with technical precision to solve real-world problems.  
+B.Tech CSE student at Jamia Hamdard University (CGPA 8.37/10), passionate about building AI-powered solutions that merge creativity with technical precision to solve real-world problems.  
 
 🛠 Specializing in ML, Deep Learning, Generative AI, and Cybersecurity, with hands-on expertise in PyTorch, TensorFlow, Streamlit, and advanced data pipelines.  
 
