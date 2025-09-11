@@ -1,0 +1,38 @@
+name: Update README with Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:       # Allow manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: Shafia-01
+          show_icons: true
+          count_private: true
+          theme: radical
+
+      - name: Update README
+        uses: wow-actions/write-in-readme@v1
+        with:
+          files: README.md
+          pattern: "<!--START_SECTION:github_stats-->[\\s\\S]*<!--END_SECTION:github_stats-->"
+          value: |
+            ![Shafia Ameeruddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafia-01&count_private=true&show_icons=true&theme=radical)
+            
+            ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&theme=radical)
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Updated README with latest GitHub Stats"
