@@ -79,7 +79,10 @@ ENORD Volunteer (managed aerospace launch for 300+ attendees)
 
 ## 📊 GitHub Statistics
 
-<!--START_SECTION:github_stats-->
+<!--START_SECTION:github_stats--> 
+![Shafia Ameeruddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafia-01&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&theme=radical&cache_seconds=1800)
 <!--END_SECTION:github_stats-->
 
 </div>
