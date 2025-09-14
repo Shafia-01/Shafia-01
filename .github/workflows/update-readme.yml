@@ -1,15 +1,16 @@
 name: Update README with Stats
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+  push:
+    branches:
+      - main   # or master if your default branch is master
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # required for pushing changes
+      contents: write
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
@@ -33,3 +34,4 @@ jobs:
           push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
