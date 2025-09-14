@@ -3,7 +3,7 @@ name: Update README with Stats
 on:
   push:
     branches:
-      - main   # or master if your default branch is master
+      - main   # change to 'master' if that's your default branch
   workflow_dispatch:
 
 jobs:
@@ -16,14 +16,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update README
-        uses: wow-actions/write-in-readme@v1
-        with:
-          files: README.md
-          pattern: "<!--START_SECTION:github_stats-->[\\s\\S]*<!--END_SECTION:github_stats-->"
-          value: |
-            ![Shafia Ameeruddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafia-01&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)
-
-            ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&theme=radical&cache_seconds=1800)
+        run: |
+          sed -i '/<!--START_SECTION:github_stats-->/, /<!--END_SECTION:github_stats-->/c\
+          <!--START_SECTION:github_stats-->\n\
+          ![Shafia Ameeruddin'\''s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafia-01&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)\n\
+          \n\
+          ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&theme=radical&cache_seconds=1800)\n\
+          <!--END_SECTION:github_stats-->' README.md
 
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
@@ -34,4 +33,3 @@ jobs:
           push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
