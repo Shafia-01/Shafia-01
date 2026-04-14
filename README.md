@@ -107,11 +107,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c77dff&icon_color=e8a0bf&text_color=5a3760&ring_color=ffb7c5&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api?username=shafia-01&show_icons=true&count_private=true&cache_seconds=1800&v=1" height="165"/>
+
   
 &nbsp;&nbsp;
 
-<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app//api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c77dff&text_color=5a3760&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api/top-langs/?username=shafia-01&layout=compact&cache_seconds=1800&v=1" height="165"/>
 
 
 <br/><br/>
