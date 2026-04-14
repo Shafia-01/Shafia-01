@@ -151,3 +151,5 @@ shafia = {
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:FFB7C5,50:E8A0BF,100:C77DFF&height=130&text=%F0%9F%8C%B8%20Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontSize=28&fontColor=1a0a2e&fontAlign=50&fontAlignY=60" width="100%"/>
 
 </div>
+
+<!-- refresh -->
