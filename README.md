@@ -107,15 +107,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api/?username=shafia-01&show_icons=true&count_private=true&cache_seconds=1800&v=3" height="165"/>
+<img 
+  src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api/?username=shafia-01&show_icons=true&count_private=true&cache_seconds=1800&v=5" 
+  height="165"
+  referrerpolicy="no-referrer"
+/>
 
-<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api/top-langs/?username=shafia-01&layout=compact&cache_seconds=1800&v=3" height="165"/>
+<img 
+  src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api/top-langs/?username=shafia-01&layout=compact&cache_seconds=1800&v=5" 
+  height="165"
+  referrerpolicy="no-referrer"
+/>
 
 <br/><br/>
 
-<a href="https://github.com/Shafia-01">
-  <img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=fff0f5&ring=c77dff&fire=ffb7c5&currStreakLabel=e8a0bf&sideLabels=c77dff&dates=5a3760&currStreakNum=5a3760&sideNums=5a3760" height="165" alt="GitHub Streak" />
-</a>
+<img 
+  src="https://streak-stats.demolab.com?user=shafia-01" 
+  height="165"
+/>
 
 </div>
 
