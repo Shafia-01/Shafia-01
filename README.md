@@ -107,13 +107,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Shafia-01">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c77dff&icon_color=e8a0bf&text_color=5a3760&ring_color=ffb7c5&count_private=true" height="165" alt="GitHub Stats" />
-</a>
+<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c77dff&icon_color=e8a0bf&text_color=5a3760&ring_color=ffb7c5&count_private=true" height="165" alt="GitHub Stats" />
+  
 &nbsp;&nbsp;
-<a href="https://github.com/Shafia-01">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c77dff&text_color=5a3760&langs_count=8" height="165" alt="Top Languages" />
-</a>
+
+<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app//api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c77dff&text_color=5a3760&langs_count=8" height="165" alt="Top Languages" />
+
 
 <br/><br/>
 
