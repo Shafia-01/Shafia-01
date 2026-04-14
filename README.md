@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Floral Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:FFB7C5,50:E8A0BF,100:C77DFF&height=220&text=Shafia%20Ameeruddin&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=1a0a2e&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20%26%20ML%20Enthusiast&descAlign=50&descAlignY=62&descSize=17&descFontColor=1a0a2e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:FFB7C5,50:E8A0BF,100:C77DFF&height=220&text=Shafia%20Ameeruddin&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=1a0a2e&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20%7C%20ML%20Enthusiast&descAlign=50&descAlignY=62&descSize=17&descFontColor=1a0a2e&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=820&lines=%F0%9F%8C%B8+Building+AI+that+thinks%2C+learns%2C+and+inspires+%F0%9F%8C%B8;%F0%9F%8C%BA+From+Neural+Networks+to+Full-Stack+Solutions+%F0%9F%8C%BA;%F0%9F%8C%B9+Turning+Data+into+Decisions%2C+Code+into+Impact+%F0%9F%8C%B9" alt="typing" />
@@ -107,13 +107,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c77dff&icon_color=e8a0bf&text_color=5a3760&ring_color=ffb7c5&count_private=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+<a href="https://github.com/Shafia-01">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c77dff&icon_color=e8a0bf&text_color=5a3760&ring_color=ffb7c5&count_private=true" height="165" alt="GitHub Stats" />
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c77dff&text_color=5a3760&cache_seconds=86400" height="170" alt="Top Languages" />
+<a href="https://github.com/Shafia-01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c77dff&text_color=5a3760&langs_count=8" height="165" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=fff0f5&ring=c77dff&fire=ffb7c5&currStreakLabel=e8a0bf&sideLabels=c77dff&dates=5a3760&currStreakNum=5a3760&sideNums=5a3760&cache_seconds=86400" height="170" alt="GitHub Streak" />
+<a href="https://github.com/Shafia-01">
+  <img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=fff0f5&ring=c77dff&fire=ffb7c5&currStreakLabel=e8a0bf&sideLabels=c77dff&dates=5a3760&currStreakNum=5a3760&sideNums=5a3760" height="165" alt="GitHub Streak" />
+</a>
 
 </div>
 
