@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Floral Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:FFB7C5,50:E8A0BF,100:C77DFF&height=220&text=Shafia%20Ameeruddin&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=fff&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlign=50&descAlignY=62&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:FFB7C5,50:E8A0BF,100:C77DFF&height=220&text=Shafia%20Ameeruddin&fontSize=52&fontAlign=50&fontAlignY=38&fontColor=1a0a2e&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20%26%20ML%20Enthusiast&descAlign=50&descAlignY=62&descSize=17&descFontColor=1a0a2e&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=820&lines=%F0%9F%8C%B8+Building+AI+that+thinks%2C+learns%2C+and+inspires+%F0%9F%8C%B8;%F0%9F%8C%BA+From+Neural+Networks+to+Full-Stack+Solutions+%F0%9F%8C%BA;%F0%9F%8C%B9+Turning+Data+into+Decisions%2C+Code+into+Impact+%F0%9F%8C%B9" alt="typing" />
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shafia%20Ameeruddin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafia-ameeruddin01)
 [![Gmail](https://img.shields.io/badge/Gmail-shafiaameeruddin637-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shafia--01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01)
-[![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-FFB7C5?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Delhi%2C%20India-FFB7C5?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
@@ -28,15 +28,15 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" alt="coding gif"/>
 
-🎓 **B.Tech CSE** @ Jamia Hamdard University, Delhi - **CGPA: 8.46 / 10** *(Graduating May 2026)*
+🎓 **B.Tech CSE** @ Jamia Hamdard University, Delhi — **CGPA: 8.46 / 10** *(Graduating May 2026)*
 
-🤖 I craft **AI systems** that are accurate, interpretable, and production-ready - from custom ResNet architectures to RAG-based document intelligence pipelines.
+🤖 I craft **AI systems** that are accurate, interpretable, and production-ready — from custom ResNet architectures to RAG-based document intelligence pipelines.
 
 🌐 I build **full-stack web apps** that balance clean code with delightful UX, with hands-on experience in React, FastAPI, and Streamlit.
 
-🔐 I'm deeply curious about **Cybersecurity** - particularly AI-driven threat detection and network defense.
+🔐 I'm deeply curious about **Cybersecurity** — particularly AI-driven threat detection and network defense.
 
-🌺 Outside of code, I lead communities - I've headed social media strategy for GDG on Campus, organized IEEE technical events, and coordinated placement drives.
+🌺 Outside of code, I lead communities — I've headed social media strategy for GDG on Campus, organized IEEE technical events, and coordinated placement drives.
 
 <br clear="right"/>
 
@@ -107,13 +107,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shafia-01&count_private=true&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=C77DFF&icon_color=E8A0BF&text_color=5a3760&ring_color=FFB7C5" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=C77DFF&text_color=5a3760" width="38%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c77dff&icon_color=e8a0bf&text_color=5a3760&ring_color=ffb7c5&count_private=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c77dff&text_color=5a3760&cache_seconds=86400" height="170" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Shafia-01&hide_border=true&background=FFF0F5&ring=C77DFF&fire=FFB7C5&currStreakLabel=E8A0BF&sideLabels=C77DFF&dates=5a3760&currStreakNum=5a3760&sideNums=5a3760" width="55%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=fff0f5&ring=c77dff&fire=ffb7c5&currStreakLabel=e8a0bf&sideLabels=c77dff&dates=5a3760&currStreakNum=5a3760&sideNums=5a3760&cache_seconds=86400" height="170" alt="GitHub Streak" />
 
 </div>
 
@@ -148,6 +148,6 @@ shafia = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:FFB7C5,50:E8A0BF,100:C77DFF&height=130&text=%F0%9F%8C%B8%20Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontSize=28&fontColor=fff&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:FFB7C5,50:E8A0BF,100:C77DFF&height=130&text=%F0%9F%8C%B8%20Thanks%20for%20visiting!%20%F0%9F%8C%B8&fontSize=28&fontColor=1a0a2e&fontAlign=50&fontAlignY=60" width="100%"/>
 
 </div>
