@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api?username=shafia-01&show_icons=true&count_private=true&cache_seconds=1800&v=3" height="165"/>
+<img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api/?username=shafia-01&show_icons=true&count_private=true&cache_seconds=1800&v=3" height="165"/>
 
 <img src="https://github-readme-stats-shafiaameeruddin637-3111s-projects.vercel.app/api/top-langs/?username=shafia-01&layout=compact&cache_seconds=1800&v=3" height="165"/>
 
