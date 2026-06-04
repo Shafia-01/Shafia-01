@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&color=0:F8C8DC,45:D9B8FF,100:BFA2DB&text=Shafia%20Ameeruddin&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=2F1B45&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Generative%20AI%20%26%20RAG%20Applications&descAlign=50&descAlignY=62&descSize=17&descFontColor=3F2A5A&animation=fadeIn" width="100%" alt="Shafia Ameeruddin - AI Engineer and Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&color=0:F8C8DC,45:D9B8FF,100:BFA2DB&text=Shafia%20Ameeruddin&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=2F1B45&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Intelligent%20Systems%20Builder&descAlign=50&descAlignY=62&descSize=17&descFontColor=3F2A5A&animation=fadeIn" width="100%" alt="Shafia Ameeruddin - AI Engineer and Full-Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=9D68B3&center=true&vCenter=true&width=900&lines=Building+AI+products+for+real-world+impact;Engineering+personalized+learning+experiences;Designing+intelligent+systems+with+LLMs;Creating+AI+that+learns%2C+adapts%2C+and+scales" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=9D68B3&center=true&vCenter=true&width=900&lines=Building+AI+products+for+real-world+impact;Developing+full-stack+intelligent+software;Designing+intelligent+systems+with+LLMs;Building+robust+RAG+and+agentic+workflows" alt="Typing animation" />
 
 <br />
 
@@ -13,22 +13,13 @@
 
 </div>
 
-## AI Engineer Building Full-Stack Intelligent Products
+## 💻 About Me
 
-I build practical AI-powered systems that combine software engineering, product thinking, and modern LLM workflows. My work focuses on Generative AI, Retrieval-Augmented Generation, and full-stack applications that turn complex information into useful experiences.
+I am an **AI Engineer & Full-Stack Developer** who builds practical, intelligent products. I specialize in designing and implementing robust systems that integrate software engineering best practices with modern AI workflows, Retrieval-Augmented Generation (RAG), and agentic LLM orchestration. 
 
-I care about systems that are not only technically strong, but also clear, usable, and built around real user problems.
+My interest lies in building domain-agnostic tools and applications that solve real-world problems—focusing on clean architecture, backend performance, and intuitive user experiences.
 
-## Career Snapshot
-
-**Degree:** B.Tech Computer Science & Engineering  
-**University:** Jamia Hamdard University  
-**Graduation:** May 2026  
-**CGPA:** 8.46 / 10  
-**Location:** Mumbai, Maharashtra, India  
-**Core Focus:** AI Engineering, Full-Stack Development, Generative AI, RAG Systems, LLM Applications
-
-## Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -40,7 +31,7 @@ I care about systems that are not only technically strong, but also clear, usabl
 ![HTML5](https://img.shields.io/badge/HTML5-C97BA6?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-9D68B3?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI, Machine Learning, Generative AI
+### AI, Machine Learning & Generative AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-C97BA6?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-BFA2DB?style=for-the-badge&logo=scikitlearn&logoColor=2F1B45)
 ![Transformers](https://img.shields.io/badge/Transformers-8E7DBE?style=for-the-badge&logo=huggingface&logoColor=white)
@@ -53,19 +44,19 @@ I care about systems that are not only technically strong, but also clear, usabl
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-BFA2DB?style=for-the-badge&logoColor=2F1B45)
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-F8C8DC?style=for-the-badge&logoColor=2F1B45)
 
-### Full-Stack Development
+### Full-Stack & APIs
 ![React](https://img.shields.io/badge/React-9D68B3?style=for-the-badge&logo=react&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-C97BA6?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-6F5A8A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8E7DBE?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-C97BA6?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Data & Databases
-![NumPy](https://img.shields.io/badge/NumPy-8E7DBE?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-9D68B3?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-C97BA6?style=for-the-badge&logo=plotly&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-BFA2DB?style=for-the-badge&logo=mongodb&logoColor=2F1B45)
 ![MySQL](https://img.shields.io/badge/MySQL-F8C8DC?style=for-the-badge&logo=mysql&logoColor=2F1B45)
 ![SQLite](https://img.shields.io/badge/SQLite-6F5A8A?style=for-the-badge&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8E7DBE?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-9D68B3?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-C97BA6?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-C97BA6?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -75,84 +66,34 @@ I care about systems that are not only technically strong, but also clear, usabl
 
 </div>
 
-## Featured Project: Learnify AI
+## 🚀 Featured Project: Learnify AI - Multimodal Intelligent Tutoring System with RAG, Affective Computing, and Gamified Adaptive Learning
+
+*A production-ready full-stack platform that transforms static unstructured documents (PDFs, text) into dynamic, interactive learning environments using advanced Retrieval-Augmented Generation (RAG) and LLM orchestration.*
+
+* **Advanced RAG Engineering**: Built a robust document processing pipeline utilizing semantic parsing, vector search, and dynamic context retrieval.
+* **Intelligent Workflows**: Developed stateful LLM chains to generate affect-aware feedback, adaptive quizzes, and structured flashcards.
+* **Full-Stack Architecture**: Powered by FastAPI for high-performance async APIs, React for responsive UI, and MongoDB for structured document storage.
+
+> **Technologies Used:** `Python` • `FastAPI` • `React` • `MongoDB` • `LangChain` • `Hugging Face` • `Vector Search` • `RAG Architecture`
 
 <div align="center">
+<br />
 
-### Multimodal Intelligent Tutoring Platform
-
-Learnify AI is a full-stack AI learning platform designed to make studying more adaptive, interactive, and personalized through Generative AI and Retrieval-Augmented Generation.
+[![Explore Pinned Repositories](https://img.shields.io/badge/Explore%20All%20Repositories-9D68B3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01?tab=repositories)
 
 </div>
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">Problem</h3>
-      <p align="center">Learners need study systems that understand their material, adapt to their progress, and convert static content into active learning.</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Approach</h3>
-      <p align="center">Learnify AI combines RAG, PDF intelligence, AI tutoring, quiz generation, flashcards, analytics, and personalized learning paths.</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Impact</h3>
-      <p align="center">The platform turns documents and learning goals into structured, responsive study experiences powered by LLMs and vector search.</p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><b>AI Capabilities</b></td>
-    <td>RAG, AI tutoring, LLM integration, vector search, prompt workflows, PDF intelligence</td>
-  </tr>
-  <tr>
-    <td><b>Learning Features</b></td>
-    <td>Personalized paths, AI quizzes, flashcards, affect-aware learning, gamification, learning analytics</td>
-  </tr>
-  <tr>
-    <td><b>Engineering Stack</b></td>
-    <td>Python, FastAPI, React, MongoDB, LangChain, Hugging Face, RAG architecture</td>
-  </tr>
-  <tr>
-    <td><b>Product Focus</b></td>
-    <td>Personalized education technology, intelligent content understanding, adaptive learner support</td>
-  </tr>
-</table>
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Explore Pinned Repositories](https://img.shields.io/badge/Explore%20Pinned%20Repositories-9D68B3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01?tab=repositories)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&title_color=9D68B3&icon_color=C97BA6&text_color=3F2A5A&bg_color=FAF7FF&cache_seconds=86400" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&title_color=9D68B3&text_color=3F2A5A&bg_color=FAF7FF&cache_seconds=86400" height="165" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=FAF7FF&ring=9D68B3&fire=C97BA6&currStreakLabel=9D68B3&sideLabels=3F2A5A&currStreakNum=3F2A5A&sideNums=3F2A5A&dates=6F5A8A&cache_seconds=86400" height="165" alt="GitHub streak" />
 
 </div>
 
-## Currently Building
-
-I am focused on AI-powered learning systems, RAG applications, LLM-powered user experiences, and full-stack AI products that make personalized education more effective and accessible.
-
-## Leadership & Community
-
-**GDG on Campus:** Contributed to developer community leadership, engagement strategy, and technical event visibility.
-
-**IEEE:** Supported technical community initiatives and collaborative learning experiences.
-
-**Placement Cell:** Helped coordinate placement-focused activities connecting students with career opportunities.
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&title_color=9D68B3&icon_color=C97BA6&text_color=3F2A5A&bg_color=FAF7FF" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&title_color=9D68B3&text_color=3F2A5A&bg_color=FAF7FF" height="165" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=FAF7FF&ring=9D68B3&fire=C97BA6&currStreakLabel=9D68B3&sideLabels=3F2A5A&currStreakNum=3F2A5A&sideNums=3F2A5A&dates=6F5A8A" height="165" alt="GitHub streak" />
-
-</div>
-
-## Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
