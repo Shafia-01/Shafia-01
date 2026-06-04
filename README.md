@@ -17,7 +17,7 @@
 
 I am an **AI Engineer & Full-Stack Developer** who builds practical, intelligent products. I specialize in designing and implementing robust systems that integrate software engineering best practices with modern AI workflows, Retrieval-Augmented Generation (RAG), and agentic LLM orchestration. 
 
-My interest lies in building domain-agnostic tools and applications that solve real-world problems—focusing on clean architecture, backend performance, and intuitive user experiences.
+My interest lies in building domain-agnostic tools and applications that solve real-world problems - focusing on clean architecture, backend performance, and intuitive user experiences.
 
 ## 🛠️ Technical Skills
 
@@ -44,13 +44,13 @@ My interest lies in building domain-agnostic tools and applications that solve r
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-BFA2DB?style=for-the-badge&logoColor=2F1B45)
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-F8C8DC?style=for-the-badge&logoColor=2F1B45)
 
-### Full-Stack & APIs
+### Full-Stack
 ![React](https://img.shields.io/badge/React-9D68B3?style=for-the-badge&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-6F5A8A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8E7DBE?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-C97BA6?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Data & Databases
+### Data Analytics & Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-BFA2DB?style=for-the-badge&logo=mongodb&logoColor=2F1B45)
 ![MySQL](https://img.shields.io/badge/MySQL-F8C8DC?style=for-the-badge&logo=mysql&logoColor=2F1B45)
 ![SQLite](https://img.shields.io/badge/SQLite-6F5A8A?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -66,7 +66,8 @@ My interest lies in building domain-agnostic tools and applications that solve r
 
 </div>
 
-## 🚀 Featured Project: Learnify AI - Multimodal Intelligent Tutoring System with RAG, Affective Computing, and Gamified Adaptive Learning
+## 🚀 Featured Project
+### Learnify AI - Multimodal Intelligent Tutoring System with RAG, Affective Computing, and Gamified Adaptive Learning
 
 *A production-ready full-stack platform that transforms static unstructured documents (PDFs, text) into dynamic, interactive learning environments using advanced Retrieval-Augmented Generation (RAG) and LLM orchestration.*
 
@@ -101,7 +102,7 @@ My interest lies in building domain-agnostic tools and applications that solve r
 [![Email](https://img.shields.io/badge/Email-Start%20a%20Conversation-C97BA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Work-6F5A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01)
 
-<br /><br />
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:F8C8DC,45:D9B8FF,100:BFA2DB" width="100%" alt="Footer wave" />
 
