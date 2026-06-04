@@ -13,15 +13,11 @@
 
 </div>
 
----
-
 ## AI Engineer Building Full-Stack Intelligent Products
 
-I build practical AI-powered systems that combine software engineering, product thinking, and modern LLM workflows. My work focuses on Generative AI, Retrieval-Augmented Generation, personalized learning platforms, and full-stack applications that turn complex information into useful experiences.
+I build practical AI-powered systems that combine software engineering, product thinking, and modern LLM workflows. My work focuses on Generative AI, Retrieval-Augmented Generation, and full-stack applications that turn complex information into useful experiences.
 
 I care about systems that are not only technically strong, but also clear, usable, and built around real user problems.
-
----
 
 ## Career Snapshot
 
@@ -31,8 +27,6 @@ I care about systems that are not only technically strong, but also clear, usabl
 **CGPA:** 8.46 / 10  
 **Location:** Mumbai, Maharashtra, India  
 **Core Focus:** AI Engineering, Full-Stack Development, Generative AI, RAG Systems, LLM Applications
-
----
 
 ## Technical Skills
 
@@ -80,8 +74,6 @@ I care about systems that are not only technically strong, but also clear, usabl
 ![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-F8C8DC?style=for-the-badge&logo=huggingface&logoColor=2F1B45)
 
 </div>
-
----
 
 ## Featured Project: Learnify AI
 
@@ -135,13 +127,9 @@ Learnify AI is a full-stack AI learning platform designed to make studying more 
 
 </div>
 
----
-
 ## Currently Building
 
 I am focused on AI-powered learning systems, RAG applications, LLM-powered user experiences, and full-stack AI products that make personalized education more effective and accessible.
-
----
 
 ## Leadership & Community
 
@@ -150,8 +138,6 @@ I am focused on AI-powered learning systems, RAG applications, LLM-powered user 
 **IEEE:** Supported technical community initiatives and collaborative learning experiences.
 
 **Placement Cell:** Helped coordinate placement-focused activities connecting students with career opportunities.
-
----
 
 ## GitHub Statistics
 
@@ -165,8 +151,6 @@ I am focused on AI-powered learning systems, RAG applications, LLM-powered user 
 <img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=FAF7FF&ring=9D68B3&fire=C97BA6&currStreakLabel=9D68B3&sideLabels=3F2A5A&currStreakNum=3F2A5A&sideNums=3F2A5A&dates=6F5A8A" height="165" alt="GitHub streak" />
 
 </div>
-
----
 
 ## Connect
 
