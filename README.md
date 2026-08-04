@@ -9,15 +9,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shafia%20Ameeruddin-9D68B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafia-ameeruddin01)
 [![Email](https://img.shields.io/badge/Email-shafiaameeruddin637%40gmail.com-C97BA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shafia--01-6F5A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithshafia.dev-BFA2DB?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshafia.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=Shafia-01&label=Profile%20Views&color=9D68B3&style=for-the-badge)](https://github.com/Shafia-01)
 
 </div>
 
 ## 💻 About Me
 
-I am an **AI Engineer & Full-Stack Developer** who builds practical, intelligent products. I specialize in designing and implementing robust systems that integrate software engineering best practices with modern AI workflows, Retrieval-Augmented Generation (RAG), and agentic LLM orchestration. 
+I am an **AI Engineer** who builds practical, intelligent products. I specialize in designing and implementing robust systems that integrate software engineering best practices with modern AI workflows, Retrieval-Augmented Generation (RAG), and agentic LLM orchestration. 
 
-My interest lies in building domain-agnostic tools and applications that solve real-world problems - focusing on clean architecture, backend performance, and intuitive user experiences.
+My interest lies in building domain-agnostic tools and applications that solve real-world problems—focusing on clean architecture, backend performance, and intuitive user experiences.
 
 ## 🛠️ Technical Skills
 
@@ -25,49 +26,46 @@ My interest lies in building domain-agnostic tools and applications that solve r
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-8E7DBE?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-BFA2DB?style=for-the-badge&logo=openjdk&logoColor=2F1B45)
+![SQL](https://img.shields.io/badge/SQL-6F5A8A?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F8C8DC?style=for-the-badge&logo=javascript&logoColor=2F1B45)
-![C](https://img.shields.io/badge/C-6F5A8A?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-C97BA6?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-9D68B3?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI, Machine Learning & Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-6F5A8A?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-9D68B3?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F8C8DC?style=for-the-badge&logo=huggingface&logoColor=2F1B45)
 ![PyTorch](https://img.shields.io/badge/PyTorch-C97BA6?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-BFA2DB?style=for-the-badge&logo=scikitlearn&logoColor=2F1B45)
-![Transformers](https://img.shields.io/badge/Transformers-8E7DBE?style=for-the-badge&logo=huggingface&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F8C8DC?style=for-the-badge&logo=huggingface&logoColor=2F1B45)
 ![OpenCV](https://img.shields.io/badge/OpenCV-6F5A8A?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-9D68B3?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-6F5A8A?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-C97BA6?style=for-the-badge)
-![LLM Applications](https://img.shields.io/badge/LLM%20Applications-8E7DBE?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-BFA2DB?style=for-the-badge&logoColor=2F1B45)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-F8C8DC?style=for-the-badge&logoColor=2F1B45)
 
-### Full-Stack
-![React](https://img.shields.io/badge/React-9D68B3?style=for-the-badge&logo=react&logoColor=white)
+
+### Software Engineering
 ![FastAPI](https://img.shields.io/badge/FastAPI-6F5A8A?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-9D68B3?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8E7DBE?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-C97BA6?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Data Analytics & Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-BFA2DB?style=for-the-badge&logo=mongodb&logoColor=2F1B45)
-![MySQL](https://img.shields.io/badge/MySQL-F8C8DC?style=for-the-badge&logo=mysql&logoColor=2F1B45)
-![SQLite](https://img.shields.io/badge/SQLite-6F5A8A?style=for-the-badge&logo=sqlite&logoColor=white)
+### Data & Databases
 ![NumPy](https://img.shields.io/badge/NumPy-8E7DBE?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-9D68B3?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-6F5A8A?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-C97BA6?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F8C8DC?style=for-the-badge&logo=mysql&logoColor=2F1B45)
+![SQLite](https://img.shields.io/badge/SQLite-6F5A8A?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-BFA2DB?style=for-the-badge&logo=mongodb&logoColor=2F1B45)
 
-### Cloud & DevOps
+### Cloud, DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-C97BA6?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-9D68B3?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8E7DBE?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-9D68B3?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-F8C8DC?style=for-the-badge&logo=huggingface&logoColor=2F1B45)
+![Vercel](https://img.shields.io/badge/Vercel-6F5A8A?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-## 🚀 Featured Project
-### Learnify AI - Multimodal Intelligent Tutoring System with RAG, Affective Computing, and Gamified Adaptive Learning
+## 🚀 Featured Project: Learnify AI - Multimodal Intelligent Tutoring System with RAG, Affective Computing, and Gamified Adaptive Learning
 
 *A production-ready full-stack platform that transforms static unstructured documents (PDFs, text) into dynamic, interactive learning environments using advanced Retrieval-Augmented Generation (RAG) and LLM orchestration.*
 
@@ -101,10 +99,10 @@ My interest lies in building domain-agnostic tools and applications that solve r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-9D68B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafia-ameeruddin01)
 [![Email](https://img.shields.io/badge/Email-Start%20a%20Conversation-C97BA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Work-6F5A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithshafia.dev-BFA2DB?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshafia.dev)
 
-<br />
+<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:F8C8DC,45:D9B8FF,100:BFA2DB" width="100%" alt="Footer wave" />
 
 </div>
-
