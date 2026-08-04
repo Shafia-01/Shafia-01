@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shafia%20Ameeruddin-9D68B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafia-ameeruddin01)
 [![Email](https://img.shields.io/badge/Email-shafiaameeruddin637%40gmail.com-C97BA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shafia--01-6F5A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithshafia.dev-BFA2DB?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshafia.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithshafia.dev-BFA2DB?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshafia-dev.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Shafia-01&label=Profile%20Views&color=9D68B3&style=for-the-badge)](https://github.com/Shafia-01)
 
 </div>
@@ -99,7 +99,7 @@ My interest lies in building domain-agnostic tools and applications that solve r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-9D68B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafia-ameeruddin01)
 [![Email](https://img.shields.io/badge/Email-Start%20a%20Conversation-C97BA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafiaameeruddin637@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Work-6F5A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafia-01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithshafia.dev-BFA2DB?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshafia.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-buildwithshafia.dev-BFA2DB?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithshafia-dev.vercel.app/)
 
 <br /><br />
 
