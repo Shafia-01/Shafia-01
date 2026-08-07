@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&color=0:F8C8DC,45:D9B8FF,100:BFA2DB&text=Shafia%20Ameeruddin&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=2F1B45&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Intelligent%20Systems%20Builder&descAlign=50&descAlignY=62&descSize=17&descFontColor=3F2A5A&animation=fadeIn" width="100%" alt="Shafia Ameeruddin - AI Engineer and Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&color=0:F8C8DC,45:D9B8FF,100:BFA2DB&text=Shafia%20Ameeruddin&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=2F1B45&desc=AI%20Engineer%20%7C%20Full-Stack%20Product%20Developer%20%7C%20Intelligent%20Systems%20Builder&descAlign=50&descAlignY=62&descSize=17&descFontColor=3F2A5A&animation=fadeIn" width="100%" alt="Shafia Ameeruddin - AI Engineer and Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=9D68B3&center=true&vCenter=true&width=900&lines=Building+AI+products+for+real-world+impact;Developing+full-stack+intelligent+software;Designing+intelligent+systems+with+LLMs;Building+robust+RAG+and+agentic+workflows" alt="Typing animation" />
 
