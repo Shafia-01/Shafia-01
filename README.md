@@ -86,8 +86,8 @@ My interest lies in building domain-agnostic tools and applications that solve r
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&title_color=9D68B3&icon_color=C97BA6&text_color=3F2A5A&bg_color=FAF7FF&cache_seconds=86400" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&title_color=9D68B3&text_color=3F2A5A&bg_color=FAF7FF&cache_seconds=86400" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-theta-seven-45.vercel.app/api?username=Shafia-01&show_icons=true&hide_border=true&title_color=9D68B3&icon_color=C97BA6&text_color=3F2A5A&bg_color=FAF7FF&cache_seconds=86400" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-theta-seven-45.vercel.app/api/top-langs/?username=Shafia-01&layout=compact&hide_border=true&title_color=9D68B3&text_color=3F2A5A&bg_color=FAF7FF&cache_seconds=86400" height="165" alt="Top languages" />
 <img src="https://streak-stats.demolab.com?user=Shafia-01&hide_border=true&background=FAF7FF&ring=9D68B3&fire=C97BA6&currStreakLabel=9D68B3&sideLabels=3F2A5A&currStreakNum=3F2A5A&sideNums=3F2A5A&dates=6F5A8A&cache_seconds=86400" height="165" alt="GitHub streak" />
 
 </div>
